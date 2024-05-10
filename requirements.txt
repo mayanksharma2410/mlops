@@ -1,4 +1,8 @@
 pandas
 numpy
 seaborn
--e .
+matplotlib
+scikit-learn
+catboost
+xgboost
+# -e . # It is used to Build the package, therefore don't run it everytime, instead build it at last
